@@ -37,26 +37,28 @@ npx react-native run-android
 
 <h3>Flight Request</h3>
 
-<img src="assets/screenshots/flightRequest.jpeg" alt="Flight Request" style="height:450px; width:200px;"/>
-
 <p>
     Here user can select From which city to which city he/she wants to travel and also date of travel.
 </p>
 
+<img src="assets/screenshots/flightRequest.jpeg" alt="Flight Request" style="height:450px; width:200px;"/>
+
+
 
 <h3>Select Airport</h3>
-
-<img src="assets/screenshots/selectAirport.jpeg" alt="Select Airport" style="height:450px; width:200px;"/>
 
 <p>
     Here user can select airport. He/she can filter list based on code, city or airport name.
 </p>
 
+<img src="assets/screenshots/selectAirport.jpeg" alt="Select Airport" style="height:450px; width:200px;"/>
+
+
 
 <h3>Flight Lis</h3>
-
-<img src="assets/screenshots/flightList.jpeg" alt="Flight List" style="height:450px; width:200px;"/>
 
 <p>
     Here user can view all the available flights with all the info regarding the flight and also filter the airlines in which he/she wants to travel and sort them by price
 </p>
+
+<img src="assets/screenshots/flightList.jpeg" alt="Flight List" style="height:450px; width:200px;"/>
