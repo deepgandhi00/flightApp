@@ -3,6 +3,10 @@
   Flight Booking React Native App
 </h1>
 
+<p>
+    The app is build using container view architecture separating logic and view
+</p>
+
 <!-- Body -->
 
 ```sh
@@ -10,6 +14,16 @@ git clone https://github.com/deepgandhi00/flightApp.git
 cd flightApp
 npx react-native run-android
 ```
+
+## Folder Structure
+
+- src (root folder for project)
+  - components (contains base components like textinputs, button and also common components like cards)
+  - data (contains data layer files for network calls and also local storage access files)
+  - navigator (all the navigators like stack navigator used in application are stored here)
+  - screens (all the screens for the app)
+  - utils (contains utils files like common styles, colors and utility functions)
+- assets (contains assets like images and screenshots)
 
 ## Library Used
 
@@ -23,7 +37,7 @@ npx react-native run-android
 
 <h3>Flight Request</h3>
 
-![alt Flight Request](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/flightRequest.jpg?raw=true)
+![alt Flight Request](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/flightRequest.jpeg?raw=true)
 
 <p>
     Here user can select From which city to which city he/she wants to travel and also date of travel.
@@ -32,7 +46,7 @@ npx react-native run-android
 
 <h3>Select Airport</h3>
 
-![alt Select Airport](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/selectAirport.jpg?raw=true)
+![alt Select Airport](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/selectAirport.jpeg?raw=true)
 
 <p>
     Here user can select airport. He/she can filter list based on code, city or airport name.
@@ -41,7 +55,7 @@ npx react-native run-android
 
 <h3>Flight Lis</h3>
 
-![alt Flight List](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/flightList.jpg?raw=true)
+![alt Flight List](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/flightList.jpeg?raw=true)
 
 <p>
     Here user can view all the available flights with all the info regarding the flight and also filter the airlines in which he/she wants to travel and sort them by price
