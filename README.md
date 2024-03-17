@@ -10,3 +10,39 @@ git clone https://github.com/deepgandhi00/flightApp.git
 cd flightApp
 npx react-native run-android
 ```
+
+## Library Used
+
+- react-navigation
+- axios
+- react-native-raw-bottom-sheet
+- react-native-vector-icons
+- react-native-modal-datetime-picker
+
+## Screens
+
+<h3>Flight Request</h3>
+
+![alt Flight Request](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/flightRequest.jpg?raw=true)
+
+<p>
+    Here user can select From which city to which city he/she wants to travel and also date of travel.
+</p>
+
+
+<h3>Select Airport</h3>
+
+![alt Select Airport](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/selectAirport.jpg?raw=true)
+
+<p>
+    Here user can select airport. He/she can filter list based on code, city or airport name.
+</p>
+
+
+<h3>Flight Lis</h3>
+
+![alt Flight List](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/flightList.jpg?raw=true)
+
+<p>
+    Here user can view all the available flights with all the info regarding the flight and also filter the airlines in which he/she wants to travel and sort them by price
+</p>
