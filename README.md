@@ -55,7 +55,7 @@ npx react-native run-android
 
 
 
-<h3>Flight Lis</h3>
+<h3>Flight List</h3>
 
 <p>
     Here user can view all the available flights with all the info regarding the flight and also filter the airlines in which he/she wants to travel and sort them by price
