@@ -37,7 +37,7 @@ npx react-native run-android
 
 <h3>Flight Request</h3>
 
-![alt Flight Request](https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/flightRequest.jpeg?raw=true)
+<img height="350px" width="200px" src="whatever.jpg" alt="Flight Request" src="https://github.com/deepgandhi00/flightApp/blob/master/assets/screenshots/flightRequest.jpeg?raw=true" />
 
 <p>
     Here user can select From which city to which city he/she wants to travel and also date of travel.
